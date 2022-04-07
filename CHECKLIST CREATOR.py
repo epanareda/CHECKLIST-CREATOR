@@ -542,171 +542,171 @@ data = """
         "determination of aircraft airworthiness."
     },
     {
-       group: "CAMO.A.315 - Continuing airworthiness management",
-       sub: "(c) ",
-       content: "Where the organisation is not appropriately approved in accordance with Subpart F of Annex I "+
-       "(Part-M), Annex II (Part-145) or Annex Vd (Part-CAO) it shall, in consultation with the operator, "+
-       "manage the written maintenance contracts required by points (e)(3), (f)(3), (g)(3) and (h)(3) of "+
-       "M.A.201 or point ML.A.201 to ensure that:" +
-       "\n(1) all maintenance is ultimately carried out by an appropriately approved maintenance organisation;" +
-       "\n(2) the functions required under points (b), (c), (f) and (g) of point M.A.301 of Annex I "+
-       "(Part-M) or point ML.A.301 of Annex Vb (Part-ML), as applicable, are clearly specified."
+        group: "CAMO.A.315 - Continuing airworthiness management",
+        sub: "(c) ",
+        content: "Where the organisation is not appropriately approved in accordance with Subpart F of Annex I "+
+        "(Part-M), Annex II (Part-145) or Annex Vd (Part-CAO) it shall, in consultation with the operator, "+
+        "manage the written maintenance contracts required by points (e)(3), (f)(3), (g)(3) and (h)(3) of "+
+        "M.A.201 or point ML.A.201 to ensure that:" +
+        "\n(1) all maintenance is ultimately carried out by an appropriately approved maintenance organisation;" +
+        "\n(2) the functions required under points (b), (c), (f) and (g) of point M.A.301 of Annex I "+
+        "(Part-M) or point ML.A.301 of Annex Vb (Part-ML), as applicable, are clearly specified."
     },
     {
-       group: "CAMO.A.315 - Continuing airworthiness management",
-       sub: "(d) ",
-       content: "Notwithstanding point (c), the contract may be in the form of individual work orders addressed "+
-       "to the maintenance organisation in the case of:" +
-       "\n(1) an aircraft requiring unscheduled line maintenance;" +
-       "\n(2) component maintenance, including engine and propeller maintenance, as applicable."
+        group: "CAMO.A.315 - Continuing airworthiness management",
+        sub: "(d) ",
+        content: "Notwithstanding point (c), the contract may be in the form of individual work orders addressed "+
+        "to the maintenance organisation in the case of:" +
+        "\n(1) an aircraft requiring unscheduled line maintenance;" +
+        "\n(2) component maintenance, including engine and propeller maintenance, as applicable."
     },
     {
-       group: "CAMO.A.315 - Continuing airworthiness management",
-       sub: "(e) ",
-       content: "The organisation shall ensure that human factors and human performance limitations are taken "+
-       "into account during continuing airworthiness management, including all contracted and subcontracted activities."
+        group: "CAMO.A.315 - Continuing airworthiness management",
+        sub: "(e) ",
+        content: "The organisation shall ensure that human factors and human performance limitations are taken "+
+        "into account during continuing airworthiness management, including all contracted and subcontracted activities."
     },
     {
-       group: "CAMO.A.320 - Airworthiness review",
-       sub: "",
-       content: "When the organisation approved in accordance with point (e) of point CAMO.A.125 performs "+
-       "airworthiness reviews, they shall be performed in accordance with point M.A.901 of Annex I (Part-M) "+
-       "or point ML.A.903 of Annex Vb (Part-ML), as applicable."
+        group: "CAMO.A.320 - Airworthiness review",
+        sub: "",
+        content: "When the organisation approved in accordance with point (e) of point CAMO.A.125 performs "+
+        "airworthiness reviews, they shall be performed in accordance with point M.A.901 of Annex I (Part-M) "+
+        "or point ML.A.903 of Annex Vb (Part-ML), as applicable."
     },
     {
-       group: "CAMO.A.325 - Continuing Airworthiness Management data",
-       sub: "",
-       content: "The organisation shall hold and use applicable current maintenance data in accordance with point "+
-       "M.A.401 of Annex I (Part-M) or point ML.A.401 of Annex Vb (Part-ML), as applicable, for the "+
-       "performance of continuing airworthiness tasks referred to in point CAMO.A.315 of this Annex "+
-       "(Part-CAMO). That data may be provided by the owner or the operator, subject to an appropriate "+
-       "contract being established with such an owner or operator. In such case, the continuing airworthiness "+
-       "management organisation shall only keep such data for the duration of the contract, except when "+
-       "otherwise required by point CAMO.A.220(a)."
+        group: "CAMO.A.325 - Continuing Airworthiness Management data",
+        sub: "",
+        content: "The organisation shall hold and use applicable current maintenance data in accordance with point "+
+        "M.A.401 of Annex I (Part-M) or point ML.A.401 of Annex Vb (Part-ML), as applicable, for the "+
+        "performance of continuing airworthiness tasks referred to in point CAMO.A.315 of this Annex "+
+        "(Part-CAMO). That data may be provided by the owner or the operator, subject to an appropriate "+
+        "contract being established with such an owner or operator. In such case, the continuing airworthiness "+
+        "management organisation shall only keep such data for the duration of the contract, except when "+
+        "otherwise required by point CAMO.A.220(a)."
     },
     {
-       group: "M.A.201 - Responsibilities",
-       sub: "(a) ",
-       content: "The owner of the aircraft shall be responsible for the continuing airworthiness of aircraft and " +
-       "shall ensure that no flight takes place unless all of the following requirements are met:" +
-       "\n(1) the aircraft is maintained in an airworthy condition;" +
-       "\n(2) any operational and emergency equipment fitted is correctly installed and serviceable or clearly identified as unserviceable; "+
-       "\n(3) the airworthiness certificate is valid;" +
-       "\n(4) the maintenance of the aircraft is performed in accordance with the AMP specified in point M.A.302."
+        group: "M.A.201 - Responsibilities",
+        sub: "(a) ",
+        content: "The owner of the aircraft shall be responsible for the continuing airworthiness of aircraft and " +
+        "shall ensure that no flight takes place unless all of the following requirements are met:" +
+        "\n(1) the aircraft is maintained in an airworthy condition;" +
+        "\n(2) any operational and emergency equipment fitted is correctly installed and serviceable or clearly identified as unserviceable; "+
+        "\n(3) the airworthiness certificate is valid;" +
+        "\n(4) the maintenance of the aircraft is performed in accordance with the AMP specified in point M.A.302."
     },
     {
-       group: "M.A.201 - Responsibilities",
-       sub:"(b) ",
-       content: "When the aircraft is leased, the responsibilities of the owner are transferred to the lessee if: " +
-       "\n1. the lessee is stipulated on the registration document; or " +
-       "\n2. detailed in the leasing contract." +
-       "\nWhen reference is made in this Part to the ‘owner’, the term owner covers the owner or the lessee, as applicable. "
+        group: "M.A.201 - Responsibilities",
+        sub:"(b) ",
+        content: "When the aircraft is leased, the responsibilities of the owner are transferred to the lessee if: " +
+        "\n1. the lessee is stipulated on the registration document; or " +
+        "\n2. detailed in the leasing contract." +
+        "\nWhen reference is made in this Part to the ‘owner’, the term owner covers the owner or the lessee, as applicable. "
     },
     {
-       group: "M.A.201 - Responsibilities",
-       sub:"(c) ",
-       content: "Any person or organisation performing maintenance shall be responsible for the tasks performed."
+        group: "M.A.201 - Responsibilities",
+        sub:"(c) ",
+        content: "Any person or organisation performing maintenance shall be responsible for the tasks performed."
     },
     {
-       group: "M.A.201 - Responsibilities",
-       sub:"(d) ",
-       content: "The pilot-in-command or, in the case of aircraft used by air carriers licensed in accordance with "+
-       "Regulation (EC) No 1008/2008, the operator, shall be responsible for the satisfactory "+
-       "accomplishment of the pre-flight inspection. That inspection shall be carried out by the pilot or "+
-       "another qualified person and shall not need to be carried out by an approved maintenance "+
-       "organisation or by certifying staff. "
+        group: "M.A.201 - Responsibilities",
+        sub:"(d) ",
+        content: "The pilot-in-command or, in the case of aircraft used by air carriers licensed in accordance with "+
+        "Regulation (EC) No 1008/2008, the operator, shall be responsible for the satisfactory "+
+        "accomplishment of the pre-flight inspection. That inspection shall be carried out by the pilot or "+
+        "another qualified person and shall not need to be carried out by an approved maintenance "+
+        "organisation or by certifying staff. "
     },
     {
-       group: "M.A.201 - Responsibilities",
-       sub:"(e) ",
-       content: "In the case of aircraft used by air carriers licensed in accordance with Regulation (EC) No 1008/2008 "+
-       "the operator shall be responsible for the continuing airworthiness of the aircraft it operates and shall: "+
-       "\n(1) ensure that no flight takes place unless the conditions set out in point (a) are met; "+
-       "\n(2) take the necessary steps to ensure its approval as a continuing airworthiness management organisation "+
-       "(‘CAMO’) pursuant to Annex Vc (Part-CAMO) or Subpart G of this Annex (Part-M), as part of air operator certificate for the aircraft it operates; "+
-       "\n(3) take the necessary steps to ensure its approval in accordance with Annex II (Part-145) or "+
-       "conclude a written contract in accordance with point CAMO.A.315(c) of Annex Vc (PartCAMO) or point M.A.708(c) " +
-       "of this Annex (Part-M) with an organisation which has been approved in accordance with Annex II (Part-145). "
+        group: "M.A.201 - Responsibilities",
+        sub:"(e) ",
+        content: "In the case of aircraft used by air carriers licensed in accordance with Regulation (EC) No 1008/2008 "+
+        "the operator shall be responsible for the continuing airworthiness of the aircraft it operates and shall: "+
+        "\n(1) ensure that no flight takes place unless the conditions set out in point (a) are met; "+
+        "\n(2) take the necessary steps to ensure its approval as a continuing airworthiness management organisation "+
+        "(‘CAMO’) pursuant to Annex Vc (Part-CAMO) or Subpart G of this Annex (Part-M), as part of air operator certificate for the aircraft it operates; "+
+        "\n(3) take the necessary steps to ensure its approval in accordance with Annex II (Part-145) or "+
+        "conclude a written contract in accordance with point CAMO.A.315(c) of Annex Vc (PartCAMO) or point M.A.708(c) " +
+        "of this Annex (Part-M) with an organisation which has been approved in accordance with Annex II (Part-145). "
     },
     {
-       group: "M.A.201 - Responsibilities",
-       sub:"(f) ",
-       content: "For complex motor-powered aircraft used for commercial specialised operations, for CAT "+
-       "operations other than those performed by air carriers licensed in accordance with Regulation "+
-       "(EC) No 1008/2008 or by commercial Approved Training Organisations (‘ATO’) and Declared "+
-       "Training Organisations (‘DTO’) referred to in Article 10a of Regulation (EU) No 1178/2011, the "+
-       "operator shall ensure that:" +
-       "\n(1) no flight takes place unless the conditions set out in point (a) are met; "+
-       "\n(2) the tasks associated with continuing airworthiness are performed by a CAMO approved "+
-       "in accordance with Annex Vc (Part-CAMO) or Subpart G of this Annex (Part-M); when the "+
-       "operator is not a CAMO approved in accordance with Annex Vc (Part-CAMO) or Subpart G "+
-       "of this Annex (Part-M), it shall conclude a written contract as regards the performance of "+
-       "those tasks in accordance with Appendix I to this Annex with an organisation approved in "+
-       "accordance with Annex Vc (Part-CAMO) or Subpart G of this Annex (Part-M); "+
-       "\n(3) the CAMO referred to in point (2) is approved in accordance with Annex II (Part-145) as "+
-       "an organisation to qualify for the issue of an approval for the maintenance of aircraft and "+
-       "of components for installation thereon, or that CAMO has concluded a written contract "+
-       "in accordance with point CAMO.A.315(c) of Annex Vc (Part-CAMO) or point M.A.708(c) "+
-       "of this Annex (Part-M) with organisations approved in accordance with Annex II (Part145)."
+        group: "M.A.201 - Responsibilities",
+        sub:"(f) ",
+        content: "For complex motor-powered aircraft used for commercial specialised operations, for CAT "+
+        "operations other than those performed by air carriers licensed in accordance with Regulation "+
+        "(EC) No 1008/2008 or by commercial Approved Training Organisations (‘ATO’) and Declared "+
+        "Training Organisations (‘DTO’) referred to in Article 10a of Regulation (EU) No 1178/2011, the "+
+        "operator shall ensure that:" +
+        "\n(1) no flight takes place unless the conditions set out in point (a) are met; "+
+        "\n(2) the tasks associated with continuing airworthiness are performed by a CAMO approved "+
+        "in accordance with Annex Vc (Part-CAMO) or Subpart G of this Annex (Part-M); when the "+
+        "operator is not a CAMO approved in accordance with Annex Vc (Part-CAMO) or Subpart G "+
+        "of this Annex (Part-M), it shall conclude a written contract as regards the performance of "+
+        "those tasks in accordance with Appendix I to this Annex with an organisation approved in "+
+        "accordance with Annex Vc (Part-CAMO) or Subpart G of this Annex (Part-M); "+
+        "\n(3) the CAMO referred to in point (2) is approved in accordance with Annex II (Part-145) as "+
+        "an organisation to qualify for the issue of an approval for the maintenance of aircraft and "+
+        "of components for installation thereon, or that CAMO has concluded a written contract "+
+        "in accordance with point CAMO.A.315(c) of Annex Vc (Part-CAMO) or point M.A.708(c) "+
+        "of this Annex (Part-M) with organisations approved in accordance with Annex II (Part145)."
     },
     {
-       group: "M.A.201 - Responsibilities",
-       sub:"(g) ",
-       content: "For complex motor-powered aircraft not included in points (e) and (f), the owner shall ensure that:"+
-       "\n(1) no flight takes place unless the conditions set out in point (a) are met;"+
-       "\n(2) the tasks associated with continuing airworthiness are performed by a CAMO approved "+
-       "in accordance with Annex Vc (Part-CAMO) or Subpart G of this Annex (Part-M); when the "+
-       "owner is not a CAMO approved in accordance with Annex Vc (Part-CAMO) or Subpart G "+
-       "of this Annex (Part-M), it shall conclude a written contract as regards the performance of "+
-       "those tasks in accordance with Appendix I to this Annex with an organisation approved in "+
-       "accordance with Annex Vc (Part-CAMO) or Subpart G of this Annex (Part-M);" +
-       "\n(3) the CAMO referred to in point (2) is approved in accordance with Annex II (Part-145) as "+
-       "an organisation to qualify for the issue of an approval for the maintenance of aircraft and "+
-       "of components for installation thereon, or that CAMO has concluded a written contract "+
-       "in accordance with point CAMO.A.315(c) of Annex Vc (Part-CAMO) or point M.A.708(c) "+
-       "of this Annex (Part-M) with organisations approved in accordance with Annex II (Part145)"
+        group: "M.A.201 - Responsibilities",
+        sub:"(g) ",
+        content: "For complex motor-powered aircraft not included in points (e) and (f), the owner shall ensure that:"+
+        "\n(1) no flight takes place unless the conditions set out in point (a) are met;"+
+        "\n(2) the tasks associated with continuing airworthiness are performed by a CAMO approved "+
+        "in accordance with Annex Vc (Part-CAMO) or Subpart G of this Annex (Part-M); when the "+
+        "owner is not a CAMO approved in accordance with Annex Vc (Part-CAMO) or Subpart G "+
+        "of this Annex (Part-M), it shall conclude a written contract as regards the performance of "+
+        "those tasks in accordance with Appendix I to this Annex with an organisation approved in "+
+        "accordance with Annex Vc (Part-CAMO) or Subpart G of this Annex (Part-M);" +
+        "\n(3) the CAMO referred to in point (2) is approved in accordance with Annex II (Part-145) as "+
+        "an organisation to qualify for the issue of an approval for the maintenance of aircraft and "+
+        "of components for installation thereon, or that CAMO has concluded a written contract "+
+        "in accordance with point CAMO.A.315(c) of Annex Vc (Part-CAMO) or point M.A.708(c) "+
+        "of this Annex (Part-M) with organisations approved in accordance with Annex II (Part145)"
     },
     {
-       group: "M.A.201 - Responsibilities",
-       sub:"(h) ",
-       content: "For aircraft other than complex motor-powered aircraft used for commercial specialised "+
-       "operations or for CAT operations other than those performed by air carriers licensed in "+
-       "accordance with Regulation (EC) No 1008/2008, or by commercial ATOs and commercial DTOs "+
-       "referred to in Article 10a of Regulation (EU) No 1178/2011, the operator shall ensure that:" +
-       "\n(1) no flight takes place unless the conditions set out in point (a) are met;"+
-       "\n(2) the tasks associated with continuing airworthiness are performed by a CAMO approved "+
-       "in accordance with Annex Vc (Part-CAMO) or Subpart G of this Annex (Part-M), or a "+
-       "combined airworthiness organisation (‘CAO’) approved in accordance with Annex Vd "+
-       "(Part-CAO); when the operator is not a CAMO approved in accordance with Annex Vc "+
-       "(Part-CAMO) or Subpart G of this Annex (Part-M), or a CAO approved in accordance with "+
-       "Annex Vd (Part-CAO), it shall conclude a written contract in accordance with Appendix I "+
-       "to this Annex with a CAMO approved in accordance with Annex Vc (Part-CAMO) or "+
-       "Subpart G of this Annex (Part-M), or a CAO approved in accordance with Annex Vd (PartCAO);" +
-       "\(3) the CAMO or CAO referred to in point (2) is approved in accordance with Annex II (Part-145) "+
-       "or in accordance with Subpart F of this Annex (Part-M), or as a CAO with " +
-       "maintenance privileges, or that CAMO or CAO has concluded a written contract with "+
-       "organisations approved in accordance with Annex II (Part-145) or in "+
-       "accordance with Subpart F of this Annex (Part-M) or Annex Vd (Part-CAO) with maintenance privileges."
+        group: "M.A.201 - Responsibilities",
+        sub:"(h) ",
+        content: "For aircraft other than complex motor-powered aircraft used for commercial specialised "+
+        "operations or for CAT operations other than those performed by air carriers licensed in "+
+        "accordance with Regulation (EC) No 1008/2008, or by commercial ATOs and commercial DTOs "+
+        "referred to in Article 10a of Regulation (EU) No 1178/2011, the operator shall ensure that:" +
+        "\n(1) no flight takes place unless the conditions set out in point (a) are met;"+
+        "\n(2) the tasks associated with continuing airworthiness are performed by a CAMO approved "+
+        "in accordance with Annex Vc (Part-CAMO) or Subpart G of this Annex (Part-M), or a "+
+        "combined airworthiness organisation (‘CAO’) approved in accordance with Annex Vd "+
+        "(Part-CAO); when the operator is not a CAMO approved in accordance with Annex Vc "+
+        "(Part-CAMO) or Subpart G of this Annex (Part-M), or a CAO approved in accordance with "+
+        "Annex Vd (Part-CAO), it shall conclude a written contract in accordance with Appendix I "+
+        "to this Annex with a CAMO approved in accordance with Annex Vc (Part-CAMO) or "+
+        "Subpart G of this Annex (Part-M), or a CAO approved in accordance with Annex Vd (PartCAO);" +
+        "\(3) the CAMO or CAO referred to in point (2) is approved in accordance with Annex II (Part-145) "+
+        "or in accordance with Subpart F of this Annex (Part-M), or as a CAO with " +
+        "maintenance privileges, or that CAMO or CAO has concluded a written contract with "+
+        "organisations approved in accordance with Annex II (Part-145) or in "+
+        "accordance with Subpart F of this Annex (Part-M) or Annex Vd (Part-CAO) with maintenance privileges."
     },
     {
-       group: "M.A.201 - Responsibilities",
-       sub:"(i) ",
-       content: "For aircraft other than complex motor-powered aircraft not included in points (e) and (h), or "+
-       "used for limited operations, the owner shall ensure that flight takes place only if the conditions "+
-       "set out in point (a) are met. To that end, the owner shall:" +
-       "\n(1) attribute the continuing airworthiness tasks referred to in point M.A.301 to a CAMO or "+
-       "CAO through a written contract concluded in accordance with Appendix I; or "+
-       "\n(2) carry out those tasks himself; or "+
-       "\n(3) carry out those tasks himself except the tasks of the development of and the processing "+
-       "of the approval of the AMP, only if those tasks are performed by a CAMO or CAO through "+
-       "a limited contract concluded in accordance with point M.A.302."
+        group: "M.A.201 - Responsibilities",
+        sub:"(i) ",
+        content: "For aircraft other than complex motor-powered aircraft not included in points (e) and (h), or "+
+        "used for limited operations, the owner shall ensure that flight takes place only if the conditions "+
+        "set out in point (a) are met. To that end, the owner shall:" +
+        "\n(1) attribute the continuing airworthiness tasks referred to in point M.A.301 to a CAMO or "+
+        "CAO through a written contract concluded in accordance with Appendix I; or "+
+        "\n(2) carry out those tasks himself; or "+
+        "\n(3) carry out those tasks himself except the tasks of the development of and the processing "+
+        "of the approval of the AMP, only if those tasks are performed by a CAMO or CAO through "+
+        "a limited contract concluded in accordance with point M.A.302."
     },
     {
-       group: "M.A.201 - Responsibilities",
-       sub:"(j) ",
-       content: "The owner/operator shall ensure that any person authorised by the competent authority is "+
-       "granted access to any of its facilities, aircraft or documents related to its activities, including any "+
-       "subcontracted activities, to determine compliance with this Part." 
+        group: "M.A.201 - Responsibilities",
+        sub:"(j) ",
+        content: "The owner/operator shall ensure that any person authorised by the competent authority is "+
+        "granted access to any of its facilities, aircraft or documents related to its activities, including any "+
+        "subcontracted activities, to determine compliance with this Part." 
     },
     {
         group: "M.A.201 - Responsibilities",
