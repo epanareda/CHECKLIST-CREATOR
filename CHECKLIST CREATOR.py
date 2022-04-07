@@ -494,34 +494,34 @@ data = """
         "\n(2) acquired an appropriate licence in compliance with Annex (III) Part-66 or an aeronautical degree or a national equivalent; "+
         "\n(3) received formal aeronautical maintenance training; "+
         "\n(4) held a position within the approved organisation with appropriate responsibilities."
-   },
-   {
+    },
+    {
         group: "CAMO.A.310 - Airworthiness Review staff qualifications",
         sub: "(b) ",
         content: "Notwithstanding points (a)(1), (a)(3) and (a)(4), the requirement laid down in point (a)(2) may be replaced with 5 years of experience "+
         "in continuing airworthiness additional to those already required by point (a)(1)."
-   },
-   {
+    },
+    {
         group: "CAMO.A.310 - Airworthiness Review staff qualifications",
         sub: "(c) ",
         content: "Airworthiness review staff nominated by the organisation can only be issued an authorisation by that organisation when formally "+
         "accepted by the competent authority after satisfactory completion of an airworthiness review under the supervision of the competent authority, or "+
         "under the supervision of the organisation’s authorised airworthiness review staff, in accordance with a procedure approved by the competent authority "+
         "as part of the CAME."
-   },
-   {
+    },
+    {
         group: "CAMO.A.310 - Airworthiness Review staff qualifications",
         sub: "(d) ",
         content: "The organisation shall ensure that aircraft airworthiness review staff can demonstrate "+
         "appropriate, recent continuing airworthiness management experience."
-   },
-   {
+    },
+    {
         group: "CAMO.A.315 - Continuing airworthiness management",
         sub: "(a) ",
         content: "The organisation shall ensure that all continuing airworthiness management is carried out in "+
         "accordance with Section A, Subpart C of Annex I (Part-M), or Section A Subpart C of Annex Vb (Part-ML), as applicable."
-   },
-   {
+    },
+    {
         group: "CAMO.A.315 - Continuing airworthiness management",
         sub: "(b) ",
         content: "For every aircraft managed, the organisation shall in particular:" +
@@ -540,8 +540,8 @@ data = """
         "\n(6) order maintenance, supervise activities, and coordinate related decisions to ensure that "+
         "any maintenance is carried out properly and is appropriately released for the "+
         "determination of aircraft airworthiness."
-   },
-   {
+    },
+    {
        group: "CAMO.A.315 - Continuing airworthiness management",
        sub: "(c) ",
        content: "Where the organisation is not appropriately approved in accordance with Subpart F of Annex I "+
@@ -551,29 +551,29 @@ data = """
        "\n(1) all maintenance is ultimately carried out by an appropriately approved maintenance organisation;" +
        "\n(2) the functions required under points (b), (c), (f) and (g) of point M.A.301 of Annex I "+
        "(Part-M) or point ML.A.301 of Annex Vb (Part-ML), as applicable, are clearly specified."
-   },
-   {
+    },
+    {
        group: "CAMO.A.315 - Continuing airworthiness management",
        sub: "(d) ",
        content: "Notwithstanding point (c), the contract may be in the form of individual work orders addressed "+
        "to the maintenance organisation in the case of:" +
        "\n(1) an aircraft requiring unscheduled line maintenance;" +
        "\n(2) component maintenance, including engine and propeller maintenance, as applicable."
-   },
-   {
+    },
+    {
        group: "CAMO.A.315 - Continuing airworthiness management",
        sub: "(e) ",
        content: "The organisation shall ensure that human factors and human performance limitations are taken "+
        "into account during continuing airworthiness management, including all contracted and subcontracted activities."
-   },
-   {
+    },
+    {
        group: "CAMO.A.320 - Airworthiness review",
        sub: "",
        content: "When the organisation approved in accordance with point (e) of point CAMO.A.125 performs "+
        "airworthiness reviews, they shall be performed in accordance with point M.A.901 of Annex I (Part-M) "+
        "or point ML.A.903 of Annex Vb (Part-ML), as applicable."
-   },
-   {
+    },
+    {
        group: "CAMO.A.325 - Continuing Airworthiness Management data",
        sub: "",
        content: "The organisation shall hold and use applicable current maintenance data in accordance with point "+
@@ -583,8 +583,8 @@ data = """
        "contract being established with such an owner or operator. In such case, the continuing airworthiness "+
        "management organisation shall only keep such data for the duration of the contract, except when "+
        "otherwise required by point CAMO.A.220(a)."
-   },
-   {
+    },
+    {
        group: "M.A.201 - Responsibilities",
        sub: "(a) ",
        content: "The owner of the aircraft shall be responsible for the continuing airworthiness of aircraft and " +
@@ -593,21 +593,21 @@ data = """
        "\n(2) any operational and emergency equipment fitted is correctly installed and serviceable or clearly identified as unserviceable; "+
        "\n(3) the airworthiness certificate is valid;" +
        "\n(4) the maintenance of the aircraft is performed in accordance with the AMP specified in point M.A.302."
-   },
-   {
+    },
+    {
        group: "M.A.201 - Responsibilities",
        sub:"(b) ",
        content: "When the aircraft is leased, the responsibilities of the owner are transferred to the lessee if: " +
        "\n1. the lessee is stipulated on the registration document; or " +
        "\n2. detailed in the leasing contract." +
        "\nWhen reference is made in this Part to the ‘owner’, the term owner covers the owner or the lessee, as applicable. "
-   },
-   {
+    },
+    {
        group: "M.A.201 - Responsibilities",
        sub:"(c) ",
        content: "Any person or organisation performing maintenance shall be responsible for the tasks performed."
-   },
-   {
+    },
+    {
        group: "M.A.201 - Responsibilities",
        sub:"(d) ",
        content: "The pilot-in-command or, in the case of aircraft used by air carriers licensed in accordance with "+
@@ -615,8 +615,8 @@ data = """
        "accomplishment of the pre-flight inspection. That inspection shall be carried out by the pilot or "+
        "another qualified person and shall not need to be carried out by an approved maintenance "+
        "organisation or by certifying staff. "
-   },
-   {
+    },
+    {
        group: "M.A.201 - Responsibilities",
        sub:"(e) ",
        content: "In the case of aircraft used by air carriers licensed in accordance with Regulation (EC) No 1008/2008 "+
@@ -627,8 +627,8 @@ data = """
        "\n(3) take the necessary steps to ensure its approval in accordance with Annex II (Part-145) or "+
        "conclude a written contract in accordance with point CAMO.A.315(c) of Annex Vc (PartCAMO) or point M.A.708(c) " +
        "of this Annex (Part-M) with an organisation which has been approved in accordance with Annex II (Part-145). "
-   },
-   {
+    },
+    {
        group: "M.A.201 - Responsibilities",
        sub:"(f) ",
        content: "For complex motor-powered aircraft used for commercial specialised operations, for CAT "+
@@ -648,8 +648,8 @@ data = """
        "of components for installation thereon, or that CAMO has concluded a written contract "+
        "in accordance with point CAMO.A.315(c) of Annex Vc (Part-CAMO) or point M.A.708(c) "+
        "of this Annex (Part-M) with organisations approved in accordance with Annex II (Part145)."
-   },
-   {
+    },
+    {
        group: "M.A.201 - Responsibilities",
        sub:"(g) ",
        content: "For complex motor-powered aircraft not included in points (e) and (f), the owner shall ensure that:"+
@@ -665,8 +665,8 @@ data = """
        "of components for installation thereon, or that CAMO has concluded a written contract "+
        "in accordance with point CAMO.A.315(c) of Annex Vc (Part-CAMO) or point M.A.708(c) "+
        "of this Annex (Part-M) with organisations approved in accordance with Annex II (Part145)"
-   },
-   {
+    },
+    {
        group: "M.A.201 - Responsibilities",
        sub:"(h) ",
        content: "For aircraft other than complex motor-powered aircraft used for commercial specialised "+
@@ -687,8 +687,8 @@ data = """
        "maintenance privileges, or that CAMO or CAO has concluded a written contract with "+
        "organisations approved in accordance with Annex II (Part-145) or in "+
        "accordance with Subpart F of this Annex (Part-M) or Annex Vd (Part-CAO) with maintenance privileges."
-   },
-   {
+    },
+    {
        group: "M.A.201 - Responsibilities",
        sub:"(i) ",
        content: "For aircraft other than complex motor-powered aircraft not included in points (e) and (h), or "+
@@ -700,15 +700,15 @@ data = """
        "\n(3) carry out those tasks himself except the tasks of the development of and the processing "+
        "of the approval of the AMP, only if those tasks are performed by a CAMO or CAO through "+
        "a limited contract concluded in accordance with point M.A.302."
-   },
-   {
+    },
+    {
        group: "M.A.201 - Responsibilities",
        sub:"(j) ",
        content: "The owner/operator shall ensure that any person authorised by the competent authority is "+
        "granted access to any of its facilities, aircraft or documents related to its activities, including any "+
        "subcontracted activities, to determine compliance with this Part." 
-   },
-   {
+    },
+    {
         group: "M.A.201 - Responsibilities",
         sub:"(k) ",
         content: "Where an aircraft included in an air operator certificate is used for non-commercial operations "+
@@ -718,8 +718,8 @@ data = """
         "Annex Vc (Part-CAMO) or Subpart G of this Annex (Part-M) or the combined airworthiness "+
         "organisation (“CAO”) approved in accordance with Annex Vd (Part-CAO), whichever applicable, "+
         "of the air operator certificate holder." 
-   },
-   {
+    },
+    {
         group: "M.A.202 - Occurrence reporting",
         sub:"(a) ",
         content: "Without prejudice to the reporting requirements set out in Annex II (Part-145) and Annex Vc "+
@@ -729,72 +729,72 @@ data = """
         "when different to the Member State of registry, to the competent authority designated "+
         "by the Member State of the operator;"+
         "\n(2) to the organisation responsible for the type design or supplemental type design."
-   },
-   {
+    },
+    {
         group: "M.A.202 - Occurrence reporting",
         sub:"(b) ",
         content: "The reports referred to in point (a) shall be made in a manner determined by the competent "+
         "authority referred to in point (a) and shall contain all pertinent information about the condition "+
         "known to the person or organisation making the report."
-   },
-   {
+    },
+    {
         group: "M.A.202 - Occurrence reporting",
         sub:"(c) ",
         content: "Where the maintenance or the airworthiness review of the aircraft is carried out on the basis "+
         "of a written contract, the person or the organisation responsible for those activities shall also "+
         "report any condition referred to in point (a) to the owner and the operator of the aircraft and, "+
         "when different, to the CAMO or CAO concerned. "    
-   },
-   {
+    },
+    {
         group: "M.A.202 - Occurrence reporting",
         sub:"(d) ",
         content: "The person or organisation shall submit the reports referred to in points (a) and (c) as soon as "+
         "possible, but no later than 72 hours from the moment when the person or organisation "+
         "identified the condition to which the report relates, unless exceptional circumstances prevent this."
-   },
-   {
+    },
+    {
         group: "M.A.202 - Occurrence reporting",
         sub:"(e) ",
         content: "The person or organisation shall submit a follow-up report, providing details of actions which "+
         "that person or organisation intends to take to prevent similar occurrences in the future, as soon "+
         "as those actions have been identified. The follow-up report shall be submitted in a form and "+
         "manner established by the competent authority."
-   },
-   {
+    },
+    {
         group: "M.A.301 - Continuing airworthiness tasks",
         sub:"",
         content: "The aircraft continuing airworthiness and the serviceability of operational and emergency equipment shall be ensured by:"
-   },
-   {
+    },
+    {
         group: "M.A.301 - Continuing airworthiness tasks",
         sub:"(a) ",
         content: "the accomplishment of pre-flight inspections;"
-   },
-   {
+    },
+    {
         group: "M.A.301 - Continuing airworthiness tasks",
         sub:"(b) ",
         content: "the rectification of any defect and damage affecting safe operation in accordance with data "+
         "specified in points M.A.304 and M.A.401, as applicable, while taking into account the minimum "+
         "equipment list (‘MEL’) and configuration deviation list, when they exist; "
-   },
-   {
+    },
+    {
        group: "M.A.301 - Continuing airworthiness tasks",
        sub: "(c) ",
        content: "the accomplishment of all maintenance in accordance with the AMP referred to in point M.A.302;"
-   },
-   {
+    },
+    {
         group: "M.A.301 - Continuing airworthiness tasks",
         sub: "(d) ",
         content: "the release of all maintenance in accordance with Subpart H;"
-   },
-   {
+    },
+    {
         group: "M.A.301 - Continuing airworthiness tasks",
         sub: "(e) ",
         content: "for all complex motor-powered aircraft or aircraft used by air carriers licensed in accordance "+
         "with Regulation (EC) No 1008/2008, the analysis of the effectiveness of the approved AMP "+
         "referred to in point M.A.302;"
-   },
-   {
+    },
+    {
         group: "M.A.301 - Continuing airworthiness tasks",
         sub: "(f) ",
         content: "the accomplishment of any applicable: "+
@@ -802,34 +802,34 @@ data = """
         "\n(2) operational directive with a continuing airworthiness impact;" +
         "\n(3) continuing airworthiness requirement established by the Agency;" +
         "\n(4) measures required by the competent authority in immediate reaction to a safety problem;"  
-   },
-   {
+    },
+    {
         group: "M.A.301 - Continuing airworthiness tasks",
         sub: "(g) ",
         content: "the accomplishment of modifications and repairs in accordance with point M.A.304;"
-   },
-   {
+    },
+    {
         group: "M.A.301 - Continuing airworthiness tasks",
         sub: "(h) ",
         content: "delivering to the pilot-in-command, or to the operator in the case of air carriers licensed in "+
         "accordance with Regulation (EC) No 1008/2008, the mass and balance statement reflecting the current configuration of the aircraft;"
-   },
-   {
+    },
+    {
         group: "M.A.301 - Continuing airworthiness tasks",
         sub: "(i) ",
         content: "maintenance check flights, when necessary."
-   },
-   {
+    },
+    {
         group: "M.A.302 - Aircraft maintenance programme",
         sub: "(a) ",
         content: "Maintenance of each aircraft shall be organised in accordance with an AMP."
-   },
-   {
+    },
+    {
         group: "M.A.302 - Aircraft maintenance programme",
         sub: "(b) ",
         content: "The AMP and any subsequent amendments thereto shall be approved by the competent authority."
-   },
-   {
+    },
+    {
         group: "M.A.302 - Aircraft maintenance programme",
         sub: "(c) ",
         content: "When the continuing airworthiness of aircraft is managed by a CAMO or CAO, or when there is "+
@@ -844,8 +844,8 @@ data = """
         "the oversight of the Member State of registry of aircraft, unless a written contract has been "+
         "concluded in accordance with point 3 of point M.1 transferring responsibility for the approval "+
         "of the aircraft maintenance programme to the competent authority responsible for the CAMO or CAO. "
-   },
-   {
+    },
+    {
         group: "M.A.302 - Aircraft maintenance programme",
         sub: "(d) ",
         content: "The AMP shall demonstrate compliance with:"+
@@ -857,8 +857,8 @@ data = """
         "\n  (ii) included in the certification specifications referred to in point 21.A.90B or "+
         "21.A.431B of Annex I (Part-21) to Regulation (EU) No 748/2012, if applicable;" +
         "\n(3) the applicable provisions of Annex I (Part-26) to Regulation (EU) 2015/640."
-   },
-   {
+    },
+    {
         group: "M.A.302 - Aircraft maintenance programme",
         sub: "(e) ",
         content: "By derogation to point (d), the owner or the organisation managing the continuing "+
@@ -867,20 +867,20 @@ data = """
         "out in accordance with point (h). Indirect approval is not permitted for the escalation of safetyrelated tasks. "+
         "The owner or the organisation managing the continuing airworthiness of the "+
         "aircraft may also propose additional instructions in the AMP."
-   },
-   {
+    },
+    {
         group: "M.A.302 - Aircraft maintenance programme",
         sub: "(f) ",
         content: "The AMP shall contain details of all maintenance to be carried out, including frequency and any "+
         "specific tasks linked to the type and specificity of operations."
-   },
-   {
+    },
+    {
         group: "M.A.302 - Aircraft maintenance programme",
         sub: "(g) ",
         content: "For complex motor-powered aircraft, when the AMP is based on maintenance steering group "+
         "logic or on condition monitoring, the AMP shall include a reliability programme."
-   },
-   {
+    },
+    {
         group: "M.A.302 - Aircraft maintenance programme",
         sub: "(h) ",
         content: "The AMP shall be subject to periodic reviews and be amended accordingly when necessary. "+
@@ -889,14 +889,14 @@ data = """
         "new or modified maintenance instructions issued by the type certificate and supplemental type "+
         "certificate holders and any other organisation that publishes such data in accordance with "+
         "Annex I (Part-21) to Regulation (EU) No 748/2012."
-   },
-   {
+    },
+    {
         group: "M.A.303 - Airworthiness directives",
         sub: "",
         content: "Any applicable airworthiness directive must be carried out within the requirements of that "+
         "airworthiness directive, unless otherwise specified by the Agency."
-   },
-   {
+    },
+    {
         group: "M.A.304 - Data for modifications and repairs",
         sub: "",
         content: "A person or organisation repairing an aircraft or a component, shall assess any damage. Modifications "+
@@ -904,8 +904,8 @@ data = """
         "\n(a) approved by the Agency;"+
         "\n(b) approved by a design organisation complying with Annex I (Part-21) to Regulation (EU) No 748/2012;"+
         "\n(c) contained in the requirements referred to in point 21.A.90B or 21.A.431B of Annex I (Part-21) to Regulation (EU) No 748/2012."
-   },
-   {
+    },
+    {
         group: "M.A.305 - Aircraft continuing airworthiness record system",
         sub: "(a) ",
         content: "At the completion of any maintenance, aircraft certificate of release to service (‘CRS’) required "+
@@ -3076,7 +3076,7 @@ for en, d in enumerate(data.split("},")):
 
             row = [j.lstrip(" ") for j in e.replace("\"", "").replace("  ", " ").split(":")] # Cleans the text part 2.
             # There are two parts of cleaning so some elements are needed for spliting the content inbetween steps.
-            if(row[0] == "group" or row[0] == "\ngroup"):
+            if("group" in row[0]):
                 if(row[1] not in group_dict.keys()):
                     group_dict[row[1]] = []
                 group_dict[row[1]].append("")
